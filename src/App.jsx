@@ -9,7 +9,7 @@ function App() {
   return (
     <>
      <h1>App</h1>
-     <p>Hello World</p>
+     <p>Hii Everyone</p>
      <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
         </button>
