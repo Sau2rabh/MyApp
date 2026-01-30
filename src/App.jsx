@@ -10,9 +10,8 @@ function App() {
     <>
      <h1>App</h1>
      <p>Hii Everyone</p>
-     <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
+     <p>Welcome to my app</p>
+     <p>This is a simple app</p>
     </>
   )
 }
